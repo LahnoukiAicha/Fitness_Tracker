@@ -14,6 +14,22 @@ The Fitness Tracker Application is a Java and JavaFX-based fitness app designed 
 
 ## Getting Started
 
+## Demo : 
+![Login]([image_url](https://github.com/LahnoukiAicha/Fitness_Tracker/blob/3878e8f4e289ee4e1bc9f6bef74746338ad4b05f/Capture%20d%E2%80%99%C3%A9cran%20(120).png))
+![Subscription](https://github.com/LahnoukiAicha/Fitness_Tracker/blob/3878e8f4e289ee4e1bc9f6bef74746338ad4b05f/Capture%20d%E2%80%99%C3%A9cran%20(115).png))
+![Data](https://github.com/LahnoukiAicha/Fitness_Tracker/blob/3878e8f4e289ee4e1bc9f6bef74746338ad4b05f/Capture%20d%E2%80%99%C3%A9cran%20(117).png))
+![Nutrition](https://github.com/LahnoukiAicha/Fitness_Tracker/blob/3878e8f4e289ee4e1bc9f6bef74746338ad4b05f/Capture%20d%E2%80%99%C3%A9cran%20(123).png))
+![Workout](https://github.com/LahnoukiAicha/Fitness_Tracker/blob/3878e8f4e289ee4e1bc9f6bef74746338ad4b05f/Capture%20d%E2%80%99%C3%A9cran%20(125).png))
+![Profile](https://github.com/LahnoukiAicha/Fitness_Tracker/blob/3878e8f4e289ee4e1bc9f6bef74746338ad4b05f/Capture%20d%E2%80%99%C3%A9cran%20(126).png))
+
+
+
+
+
+
+
+
+
 ### Prerequisites
 
 - Java installed on your machine.
